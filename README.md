@@ -11,6 +11,5 @@ archive.ps1 - Powershell code.
 
 CONTACT
 
-Author: richard.bruna@protonmail.com<br>
 Source: https://github.com/KyomaHooin/EVT
 
